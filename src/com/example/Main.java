@@ -1,11 +1,7 @@
 package com.example;
 
 public class Main {
-    public static void main(String[] args) {
-        instantiateHelloWorldMainClassAndRun();
-    }
+    private HelloWorld helloWorld;
 
-    public static void instantiateHelloWorldMainClassAndRun() {
-        HelloWorld instance = new HelloWorld();
-    }
+    public HelloWorld getHelloWorld() {return helloWorld;}
 }
