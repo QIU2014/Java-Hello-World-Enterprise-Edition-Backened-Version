@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+    <name>Hello-World-Enterprise-Edition-Backened-Version</name>
+    <groupId>com.eric</groupId>
+    <artifactId>HelloWorld</artifactId>
+    <modelVersion>4.0.0</modelVersion>
+    <version>1.0.0</version>
+    <build>
+        <defaultGoal>package</defaultGoal>
+        <sourceDirectory>src/main/java</sourceDirectory>
+    </build>
+</project>
