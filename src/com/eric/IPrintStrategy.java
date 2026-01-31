@@ -1,4 +1,4 @@
-package com.example;
+package com.eric;
 
 interface IPrintStrategy {
     IStatusCode setupPrinting();

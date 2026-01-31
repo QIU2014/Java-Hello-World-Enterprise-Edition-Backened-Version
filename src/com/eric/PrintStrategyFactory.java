@@ -1,4 +1,4 @@
-package com.example;
+package com.eric;
 
 class PrintStrategyFactory {
     private static PrintStrategyFactory instance = new PrintStrategyFactory();

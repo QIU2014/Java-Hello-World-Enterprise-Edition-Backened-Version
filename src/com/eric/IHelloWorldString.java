@@ -1,4 +1,4 @@
-package com.example;
+package com.eric;
 
 interface IHelloWorldString {
     HelloWorldString getHelloWorldString();

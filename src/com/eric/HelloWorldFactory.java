@@ -1,4 +1,4 @@
-package com.example;
+package com.eric;
 
 class HelloWorldFactory {
     private static HelloWorldFactory instance = new HelloWorldFactory();

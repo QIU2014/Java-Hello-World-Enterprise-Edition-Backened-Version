@@ -1,4 +1,4 @@
-package com.example;
+package com.eric;
 
 class StringFactory {
     private static StringFactory instance = new StringFactory();

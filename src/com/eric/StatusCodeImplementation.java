@@ -1,4 +1,4 @@
-package com.example;
+package com.eric;
 
 class StatusCodeImplementation implements IStatusCode {
     private int code;

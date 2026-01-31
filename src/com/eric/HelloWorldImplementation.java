@@ -1,4 +1,4 @@
-package com.example;
+package com.eric;
 
 class HelloWorldImplementation implements IHelloWorld {
     public IHelloWorldString getHelloWorld() {
